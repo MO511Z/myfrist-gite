@@ -15,3 +15,6 @@ next, we would like have something in *italics* next if you want something in **
 cheese 
 
 to make link you need [youtube] (https://www.youtube.com/watch?v=dtQbtlRB9uI&list=RDdtQbtlRB9uI&start_radio=1) 
+
+
+to make picture ![
