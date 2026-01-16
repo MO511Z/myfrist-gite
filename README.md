@@ -8,4 +8,4 @@ i hate apple the food but i love the company i hate apple the food but i love th
 
 i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company 
 
- i hate apple the food but i love the company *italics*
+next, we would like have something in *italics* next if you want something in **bold**
