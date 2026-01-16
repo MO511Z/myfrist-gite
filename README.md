@@ -17,4 +17,4 @@ cheese
 to make link you need [youtube](https://www.youtube.com/watch?v=dtQbtlRB9uI&list=RDdtQbtlRB9uI&start_radio=1) 
 
 
-to make picture ![troll](https://www.kapwing.com/explore/3-spiderman-pointing-meme-template)
+to make picture ![troll] (https://www.kapwing.com/explore/3-spiderman-pointing-meme-template)
