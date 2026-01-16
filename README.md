@@ -8,4 +8,10 @@ i hate apple the food but i love the company i hate apple the food but i love th
 
 i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company i hate apple the food but i love the company 
 
-next, we would like have something in *italics* next if you want something in **bold**
+next, we would like have something in *italics* next if you want something in **bold** ***both***
+# my shopping list
+-RTX 5070 ti
+-i9 th11
+cheese 
+
+to make link you need [netflix] (https://www.netflix.com/browse) 
