@@ -14,4 +14,4 @@ next, we would like have something in *italics* next if you want something in **
 -i9 th11
 cheese 
 
-to make link you need [ netflix ] ( https://www.netflix.com/browse ) 
+to make link you need [ netflix ] ( https://www.netflix.com) 
